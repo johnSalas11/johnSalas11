@@ -1,56 +1,64 @@
-## 👋 Hola, soy John!
-Aunque este perfil aun está en costrucción, puedo contarte algunas cosas: 
-<table>
-  <tr>
-    <th>Característica</th>
-    <th>Detalle</th>
-  </tr>
-  <tr>
-    <td><b>Edad</b></td>
-    <td>28 años</td>
-  </tr>
-  <tr>
-    <td><b>Ubicación</b></td>
-    <td>Valencia, España</td>
-  </tr>
-  <tr>
-    <td><b>Experiencia</b></td>
-    <td>En diversos sectores, destacando el de la administración de empresas y el tatuaje.</td>
-  </tr>
-  <tr>
-    <td><b>Idiomas</b></td>
-    <td>Español (Nativo), Inglés (Nivel alto), actualmente aprendiendo Alemán.</td>
-  </tr>
-</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="header image" style="display:block; margin: 0 auto;">
 
-### Habilidades:
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<h1 align="center">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="margin-right: 10px;">
+    Hi! this is <a href="https://github.com/johnSalas11" target="_blank">John's </a>profile
+  </div>
+</h1>
 
+<h3 align="center"> About Me</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Full-stack+Dev;Web+Designer;" />
+  </a>
+</p>
+<ul align="center" style="list-style-type: none; padding: 0;">
+  <li>🌱 Currently learning new technologies every day!</li>
+  <li>💻 Passionate about building solutions using software.</li>
+  <li>🛠️ Open to job opportunities and exciting projects!</li>
+  <li>📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/john-salas-duran/)!</li>
+</ul>
 
-### <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 5px; background-color: #f9f9f9">
-  <h2 style="text-align: center;"> Contacto</h2>
-  <a href="">
-  <img align="left" alt="John salas" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="">
-  <img align="left" alt="John salas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="">
-  <img align="left" alt="John salas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="">
-  <img align="left" alt="John salas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="">
-  <img align="left" alt="John salas" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+<div align="center">
+  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Toolbox</h2>
+  <p align="center">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="60" style="margin: 0 15px; border: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" style="margin: 0 15px; border: none;">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="60" style="margin: 0 15px; border: none;">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="60" style="margin: 0 15px; border: none;">
+    <br>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="60" style="margin: 0 15px; border: none;">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" alt="Flask" width="60" style="margin: 0 15px; border: none;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" style="margin: 0 15px; border: none;">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="60" style="margin: 0 15px; border: none;">
+    <br>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="60" style="margin: 0 15px; border: none;">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="60" style="margin: 0 15px; border: none;">
+  </p>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="header image" style="display:block; margin: 0 auto;">
 
+## <div align="center"> ⭐ Popular Projects</div>
 
+<div align="center">
+  <a href="https://github.com/johnSalas11/LearnVault">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnSalas11&repo=LearnVault&theme=onedark" style="border: none;" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="header image" style="display:block; margin: 0 auto;">
+
+## <div align="center"> 📊 Stats</div>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnSalas11&langs_count=8" />
+  </a>
+  <a href="https://github.com/johnSalas11/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnSalas11&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  </a>
+</div>
+
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="header image" style="display:block; margin: 0 auto;">
