@@ -7,7 +7,7 @@
   </div>
 </h1>
 
-<h3 align="center"> About Me</h3>
+<h3 align="center"> 🤓 About Me</h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Full-stack+Dev;Web+Designer;" />
