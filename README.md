@@ -35,6 +35,8 @@
     <br>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="60" style="margin: 0 15px; border: none;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="60" style="margin: 0 15px; border: none;">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="TypeScript" width="60" style="margin: 0 15px; border: none;">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="TypeScript" width="60" style="margin: 0 15px; border: none;">
   </p>
 </div>
 
