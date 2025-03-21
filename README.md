@@ -13,7 +13,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Full-stack+Dev;Web+Designer;" />
   </a>
 </p>
-<p align="center">🌱 Currently learning new technologies every day!</p>
+<p align="center">🌱 Currently learning new technologies!</p>
 <p align="center">💻 Passionate about building solutions using software.</p>
 <p align="center">🛠️ Open to job opportunities and exciting projects!</p>
 <p align="center">📫 Let's connect on <a href="https://www.linkedin.com/in/john-salas-duran/">LinkedIn</a>!</p>
