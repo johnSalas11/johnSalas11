@@ -7,18 +7,18 @@
   </div>
 </h1>
 
-<h3 align="center"> 🤓 About Me</h3>
+<h3 align="center"> :v: About Me</h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Full-stack+Dev;Web+Designer;" />
   </a>
 </p>
-<ul align="center" style="list-style-type: none; padding: 0;">
-  <li>🌱 Currently learning new technologies every day!</li>
-  <li>💻 Passionate about building solutions using software.</li>
-  <li>🛠️ Open to job opportunities and exciting projects!</li>
-  <li>📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/john-salas-duran/)!</li>
-</ul>
+<p align="center">🌱 Currently learning new technologies every day!</p>
+<p align="center">💻 Passionate about building solutions using software.</p>
+<p align="center">🛠️ Open to job opportunities and exciting projects!</p>
+<p align="center">📫 Let's connect on <a href="https://www.linkedin.com/in/john-salas-duran/">LinkedIn</a>!</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="header image" style="display:block; margin: 0 auto;">
 
 <div align="center">
   <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Toolbox</h2>
