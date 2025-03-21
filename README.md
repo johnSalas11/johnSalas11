@@ -3,7 +3,7 @@
 <h1 align="center">
   <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="margin-right: 10px;">
-    Hi! this is <a href="https://github.com/johnSalas11" target="_blank">John's </a>profile
+    Hi! this is <a href="https://github.com/johnSalas11" target="_blank">John </a>
   </div>
 </h1>
 
